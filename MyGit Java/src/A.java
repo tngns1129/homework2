@@ -4,5 +4,7 @@ public class A {
 		System.out.println("HI A");
 		System.out.println("bye a");
 		System.out.println("bye AA");
+		System.out.println("HI A");
+		System.out.println("bye aaa");
 	}
 }
